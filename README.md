@@ -1,6 +1,8 @@
 # maven-toys-sales-dashboard
 Excel sales and inventory analysis for a fictional toy store chain in Mexico. Featuring an interactive dashboard with insights on revenue, profitability, stock outs, and inventory performance.
 
+[View for Excel Workbook](https://docs.google.com/spreadsheets/d/11A27tsrPgzUMYmSRnBk9_No1maHivudq/edit?usp=sharing&ouid=103009587922102700791&rtpof=true&sd=true)
+
 ## Project Overview
 This project analyzes Maven Toys sales and inventory data in Excel to identify revenue drivers, profit trends, stock out risks, and inventory efficiency.
 
