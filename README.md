@@ -3,6 +3,8 @@ Excel sales and inventory analysis for a fictional toy store chain in Mexico. Fe
 
 [View for Excel Workbook](https://docs.google.com/spreadsheets/d/11A27tsrPgzUMYmSRnBk9_No1maHivudq/edit?usp=sharing&ouid=103009587922102700791&rtpof=true&sd=true)
 
+*For full pivot table and dashboard functionality, download the workbook and open in microsoft excel*
+
 ## Project Overview
 This project analyzes Maven Toys sales and inventory data in Excel to identify revenue drivers, profit trends, stock out risks, and inventory efficiency.
 
